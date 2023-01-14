@@ -1,0 +1,136 @@
+	 
+ 
+ 
+ 
+                                                 GUTHRIE'S ACE HARDWARE
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                              PPPP   RRRR   IIIII   CCC   EEEEE  BBBB    OOO    OOO   K   K
+                              P   P  R   R    I    C   C  E      B   B  O   O  O   O  K  K
+                              P   P  R   R    I    C      E      B   B  O   O  O   O  K K
+                              PPPP   RRRR     I    C      EEE    BBBB   O   O  O   O  KK
+                              P      R  R     I    C      E      B   B  O   O  O   O  K K
+                              P      R   R    I    C   C  E      B   B  O   O  O   O  K  K
+                              P      R   R  IIIII   CCC   EEEEE  BBBB    OOO    OOO   K   K
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                  FROM             TO
+                                    SEQUENCE #  : 20408DF2         20410DF2
+                                    DEPARTMENT  : __               __
+                                    PRIME VENDOR: _____            _____
+                                    CLASS       : ___              ___
+                                    MANUFACTURER: _____            _____
+                                    FINELINE    : ______           ______
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                    DATE:  1/12/2023
+ 
+
+
+	 
+  PRICE BOOK REPORT (RPB) FOR GUTHRIE'S ACE HARDWARE                       OPTIONS:               1/12/23  12:24:10   PAGE:   1
+ 
+  DEPARTMENT 71      TREATED LUMBER
+ 
+      SKU                   DESCRIPTION           MANUFACTURER # UNIT     RETAIL
+------------------------------------------------------------------------------------------------------------------------------------
+ 
+  20408TYP1      2X4X8' #1 TREATED PINE #1                       S PC      3.99
+ 
+ 
+ 
+    END OF DEPARTMENT 71 TREATED LUMBER
+
+
+	 
+  PRICE BOOK REPORT (RPB) FOR GUTHRIE'S ACE HARDWARE                       OPTIONS:               1/12/23  12:24:10   PAGE:   2
+ 
+  DEPARTMENT 73      STUDS
+ 
+      SKU                   DESCRIPTION           MANUFACTURER # UNIT     RETAIL
+------------------------------------------------------------------------------------------------------------------------------------
+ 
+  20408SFS       2X4X92-5/8" STUD GD STUD         20408SFS       S PC      3.989
+  20409SFS       2X4X104-5/8" STUD GD STUD        20409SFS       S PC      5.994
+ 
+ 
+ 
+    END OF DEPARTMENT 73 STUDS
+
+
+	 
+  PRICE BOOK REPORT (RPB) FOR GUTHRIE'S ACE HARDWARE                       OPTIONS:               1/12/23  12:24:10   PAGE:   3
+ 
+  DEPARTMENT 75      FRAMING LUMBER
+ 
+      SKU                   DESCRIPTION           MANUFACTURER # UNIT     RETAIL
+------------------------------------------------------------------------------------------------------------------------------------
+ 
+  20408DF2       2X4X8'  #2 D.FIR                                S PC      4.986
+  20408DF3       2X4X8' #3 FIR                    20408DF3       S PC      3.689
+  20410DF2       2X4X10' #2 D.FIR                                S PC      6.989
+ 
+ 
+ 
+    END OF DEPARTMENT 75 FRAMING LUMBER
+
+
+	 
+  PRICE BOOK REPORT (RPB) FOR GUTHRIE'S ACE HARDWARE                       OPTIONS:               1/12/23  12:24:10   PAGE:   4
+ 
+  DEPARTMENT 77      CORNICE LUMBER
+ 
+      SKU                   DESCRIPTION           MANUFACTURER # UNIT     RETAIL
+------------------------------------------------------------------------------------------------------------------------------------
+ 
+  20408RC2       2X4X8'SELECT ROUGH CEDAR                        S PC     15.973
+ 
+ 
+ 
+    END OF DEPARTMENT 77 CORNICE LUMBER
+ 
+ 
+*** END OF REPORT ***
+ 
+ 
+ 
+
+
+
